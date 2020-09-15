@@ -24,6 +24,7 @@
     "@semantic-release/changelog": "semantic-release/changelog",
     "@semantic-release/commit-analyzer": "semantic-release/commit-analyzer",
     "@semantic-release/exec": "semantic-release/exec",
+    "@semantic-release/git": "9.0.0",
     "@semantic-release/github": "7.1.1",
     "@semantic-release/release-notes-generator": "9.0.1",
     "semantic-release": "17.1.1"
