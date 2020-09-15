@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "vue-cli-service build --modern",
+    "lint": "vue-cli-service lint",
+    "build-report": "vue-cli-service build --report"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -18,7 +19,14 @@
     "@vue/compiler-sfc": "^3.0.0-0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0-0"
+    "eslint-plugin-vue": "^7.0.0-0",
+    "@qiwi/semantic-release-gh-pages-plugin": "qiwi/semantic-release-gh-pages-plugin",
+    "@semantic-release/changelog": "semantic-release/changelog",
+    "@semantic-release/commit-analyzer": "semantic-release/commit-analyzer",
+    "@semantic-release/exec": "semantic-release/exec",
+    "@semantic-release/github": "7.1.1",
+    "@semantic-release/release-notes-generator": "9.0.1",
+    "semantic-release": "17.1.1"
   },
   "eslintConfig": {
     "root": true,
