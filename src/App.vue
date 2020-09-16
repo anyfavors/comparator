@@ -1,26 +1,58 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Comparison></Comparison>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Comparison from './components/Comparison.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Comparison
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* --------------------------------
+
+Primary style
+
+-------------------------------- */
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #404042;
+  background-color: #ffffff;
+}
+
+a {
+  color: #9dc997;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 2.2rem;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  padding: 4em 5%;
+}
+@media only screen and (min-width: 1170px) {
+  h1 {
+    font-size: 4rem;
+    font-weight: 300;
+    padding: 3em 5%;
+  }
 }
 </style>
