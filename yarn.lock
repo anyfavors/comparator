@@ -1060,8 +1060,8 @@
 
 "@qiwi/semantic-release-gh-pages-plugin@qiwi/semantic-release-gh-pages-plugin":
   version "5.0.3"
-  uid "69e110798a482a04f13bf4f52acb8016cd0cf954"
-  resolved "https://codeload.github.com/qiwi/semantic-release-gh-pages-plugin/tar.gz/69e110798a482a04f13bf4f52acb8016cd0cf954"
+  uid "3a788f9be397900e9ef5f197dada7cff7de02b64"
+  resolved "https://codeload.github.com/qiwi/semantic-release-gh-pages-plugin/tar.gz/3a788f9be397900e9ef5f197dada7cff7de02b64"
   dependencies:
     "@types/aggregate-error" "^1.0.1"
     "@types/debug" "^4.1.5"
