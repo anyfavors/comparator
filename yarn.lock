@@ -1134,8 +1134,8 @@
 
 "@semantic-release/commit-analyzer@semantic-release/commit-analyzer":
   version "0.0.0-development"
-  uid a95e48be379766385b17ed62058dcac9d8e64532
-  resolved "https://codeload.github.com/semantic-release/commit-analyzer/tar.gz/a95e48be379766385b17ed62058dcac9d8e64532"
+  uid "76943b85fca402bef5f8990aa01114332e6e4c41"
+  resolved "https://codeload.github.com/semantic-release/commit-analyzer/tar.gz/76943b85fca402bef5f8990aa01114332e6e4c41"
   dependencies:
     conventional-changelog-angular "^5.0.0"
     conventional-commits-filter "^2.0.0"
