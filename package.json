@@ -30,7 +30,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.26.0",
     "eslint-plugin-vue": "^7.11.1",
-    "semantic-release": "17.4.3"
+    "semantic-release": "17.4.4"
   },
   "eslintConfig": {
     "root": true,
