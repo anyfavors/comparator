@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bourbon": "^7.0.0",
-    "core-js": "^3.14.0",
+    "core-js": "^3.15.0",
     "node-sass": "^6.0.0",
     "sass-loader": "^12.1.0",
     "vue": "^3.1.1"
