@@ -13,7 +13,7 @@
     "core-js": "^3.14.0",
     "node-sass": "^6.0.0",
     "sass-loader": "^12.1.0",
-    "vue": "^3.1.1"
+    "vue": "^3.1.2"
   },
   "devDependencies": {
     "@qiwi/semantic-release-gh-pages-plugin": "qiwi/semantic-release-gh-pages-plugin",
@@ -26,7 +26,7 @@
     "@vue/cli-plugin-babel": "~4.5.13",
     "@vue/cli-plugin-eslint": "~4.5.7",
     "@vue/cli-service": "~4.5.13",
-    "@vue/compiler-sfc": "^3.1.1",
+    "@vue/compiler-sfc": "^3.1.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.28.0",
     "eslint-plugin-vue": "^7.11.1",
