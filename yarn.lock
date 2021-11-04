@@ -1303,10 +1303,10 @@
 
 "@semantic-release/changelog@semantic-release/changelog":
   version "0.0.0-development"
-  uid "130705f9a863b1585bdb888f8768417f53ff260b"
-  resolved "https://codeload.github.com/semantic-release/changelog/tar.gz/130705f9a863b1585bdb888f8768417f53ff260b"
+  uid ba9e473ffb6f50fd9cf30db348cb7977dc46dc17
+  resolved "https://codeload.github.com/semantic-release/changelog/tar.gz/ba9e473ffb6f50fd9cf30db348cb7977dc46dc17"
   dependencies:
-    "@semantic-release/error" "^2.1.0"
+    "@semantic-release/error" "^3.0.0"
     aggregate-error "^3.0.0"
     fs-extra "^9.0.0"
     lodash "^4.17.4"
