@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "bourbon": "^7.0.0",
-    "core-js": "^3.18.2",
+    "core-js": "^3.19.1",
     "node-sass": "^6.0.1",
-    "sass-loader": "^12.1.0",
+    "sass-loader": "^12.3.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
@@ -20,16 +20,16 @@
     "@semantic-release/changelog": "semantic-release/changelog",
     "@semantic-release/commit-analyzer": "semantic-release/commit-analyzer",
     "@semantic-release/exec": "semantic-release/exec",
-    "@semantic-release/git": "10.0.0",
-    "@semantic-release/github": "8.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "8.0.2",
     "@semantic-release/release-notes-generator": "10.0.2",
-    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-babel": "~4.5.15",
     "@vue/cli-plugin-eslint": "~4.5.15",
-    "@vue/cli-service": "~4.5.13",
-    "@vue/compiler-sfc": "^3.2.20",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.2.22",
     "babel-eslint": "^10.1.0",
-    "eslint": "^8.0.0",
-    "eslint-plugin-vue": "^7.19.1",
+    "eslint": "^8.2.0",
+    "eslint-plugin-vue": "^8.0.3",
     "semantic-release": "18.0.0"
   },
   "eslintConfig": {
