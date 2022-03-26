@@ -11,7 +11,7 @@
   "dependencies": {
     "bourbon": "^7.0.0",
     "core-js": "^3.21.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.1",
     "sass-loader": "^12.6.0",
     "vue": "^2.6.14"
   },
